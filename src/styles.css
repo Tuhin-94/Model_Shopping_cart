@@ -1,0 +1,51 @@
+.divstyle {
+  background-color: rgba(240, 221, 53, 0.911);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Nav {
+  font-family: "Comic Sans ms";
+  text-align: center;
+  color: rgb(40, 21, 143);
+  background-color: rgb(226, 123, 26);
+}
+
+.Texth2 {
+  font-family: "Verdana";
+
+  color: rgb(40, 21, 143);
+}
+
+.textp {
+  font-family: "Georgia";
+
+  color: rgb(40, 21, 143);
+  font-size: 12px;
+}
+
+.button1 {
+  background-color: #4caf50; /* Green */
+  border: 2px solid rgb(11, 110, 15);
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 10%;
+}
+.button2 {
+  background-color: #008cba; /* Green */
+  border: 2px solid rgb(7, 89, 100);
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 15%;
+}
